@@ -1,0 +1,40 @@
+{
+  "_from": "watch-magic-mike-s-las-dance-2023-online-on-free-streaming-at-home",
+  "_inBundle": false,
+  "_integrity": "sha512-oyGhlYtWMgOFmG99Up+4DK6gJcnZQHyPyiYHmIjofCDlFavTWl0CJ7k+wsVmwRzj5TWBOIa//r3w4Bdevq4H4w==",
+  "_location": "watch-magic-mike-s-las-dance-2023-online-on-free-streaming-at-home",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "watch-magic-mike-s-las-dance-2023-online-on-free-streaming-at-home",
+    "name": "watch-magic-mike-s-las-dance-2023-online-on-free-streaming-at-home",
+    "escapedName": "watch-magic-mike-s-las-dance-2023-online-on-free-streaming-at-home",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/watch-avatar-2-the-way-of-water-2022-online-on-free-streaming-at-home/-/watch-avatar-2-the-way-of-water-2022-online-on-free-streaming-at-home-1.0.0.tgz",
+  "_shasum": "981b679575523e302dace31aa707ebf5bd9b6223",
+  "_spec": "watch-magic-mike-s-las-dance-2023-online-on-free-streaming-at-home",
+  "_where": "C:\\Users\\imdb",
+  "author": "imdb21",
+  "bundleDependencies": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "deprecated": false,
+  "description": "**27 secs ago - Still Now Here Option’s to Downloading or watching Magic Mike's Last Dance streaming the full movie online for free.",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "watch-magic-mike-s-las-dance-2023-online-on-free-streaming-at-home",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.0"
+}
